@@ -33,3 +33,6 @@ tests/_support/_generated
 /.vagrant
 
 /composer.lock
+
+/postgres_data/*
+!/postgres_data/.gitkeep
